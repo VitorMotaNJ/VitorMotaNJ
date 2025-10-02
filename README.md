@@ -53,7 +53,7 @@
     <td width="50%">
       <h3 align="center">Estudo: JavaScript Completo</h3>
       <p align="center">
-        Repositório com exercícios e anotações sobre ES6+, DOM, APIs e JavaScript Assíncrono, cobrindo desde o básico até conceitos avançados.
+        Repositório com exercícios e estudos sobre Javascript ES6+.
         <br><br>
         <a href="https://github.com/organizacao-de-estudos/Estudos-Javascript-Completo" target="_blank"><strong>Ver Repositório 💻</strong></a>
       </p>
@@ -61,7 +61,7 @@
     <td width="50%">
       <h3 align="center">Estudo: React Completo</h3>
       <p align="center">
-        Estudos práticos sobre os fundamentos de UI Design, prototipagem de interfaces e criação de sistemas de design utilizando o Figma.
+        Estudos práticos sobre React.
         <br><br>
         <a href="https://github.com/organizacao-de-estudos/Estudos-React-Completo" target="_blank"><strong>Ver Repositório 💻</strong></a>
       </p>
