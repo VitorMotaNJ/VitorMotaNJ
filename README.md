@@ -7,7 +7,7 @@
 * **Técnico em Desenvolvimento de Sistemas** - ETEC de Guaianases
 * **Análise e Desenvolvimento de Sistemas (Cursando)** - FATEC Mogi das Cruzes
 * **Programação Fullstack (Cursando)** - INSTITUTO PROA
-* 
+  
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
