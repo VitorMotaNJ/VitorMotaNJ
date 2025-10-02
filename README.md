@@ -48,7 +48,7 @@
 ---
 ## 📚 Meus Estudos e Cursos
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <h3 align="center">Estudo: JavaScript Completo</h3>
