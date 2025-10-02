@@ -7,6 +7,21 @@
 * **Técnico em Desenvolvimento de Sistemas** - ETEC de Guaianases
 * **Análise e Desenvolvimento de Sistemas (Cursando)** - FATEC Mogi das Cruzes
 * **Programação Fullstack (Cursando)** - INSTITUTO PROA
+* 
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+</p>
 
 ## 🌐 Conecte-se comigo
 <p align="center">
@@ -31,21 +46,29 @@
 </table>
 
 ---
+## 📚 Meus Estudos e Cursos
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Estudo: JavaScript Completo</h3>
+      <p align="center">
+        Repositório com exercícios e anotações sobre ES6+, DOM, APIs e JavaScript Assíncrono, cobrindo desde o básico até conceitos avançados.
+        <br><br>
+        <a href="https://github.com/organizacao-de-estudos/Estudos-Javascript-Completo" target="_blank"><strong>Ver Repositório 💻</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Estudo: React Completo</h3>
+      <p align="center">
+        Estudos práticos sobre os fundamentos de UI Design, prototipagem de interfaces e criação de sistemas de design utilizando o Figma.
+        <br><br>
+        <a href="https://github.com/organizacao-de-estudos/Estudos-React-Completo" target="_blank"><strong>Ver Repositório 💻</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
