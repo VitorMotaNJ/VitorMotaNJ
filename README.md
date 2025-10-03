@@ -8,7 +8,7 @@
 * **Análise e Desenvolvimento de Sistemas (Cursando)** - FATEC Mogi das Cruzes
 * **Programação Fullstack (Cursando)** - INSTITUTO PROA
   
-## 💻 Tech Stack
+## 💻 Tecnologias
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -82,7 +82,7 @@
 
 ---
 
-## 📊 Es Stats
+## 📊 Estatísticas
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=vitormotanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats"/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormotanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
