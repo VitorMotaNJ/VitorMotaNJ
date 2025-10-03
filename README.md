@@ -68,6 +68,16 @@
     </td>
   </tr>
 </table>
+<table align="center">
+      <td width="50%">
+      <h3 align="center">Estudo: Tailwind CSS</h3>
+      <p align="center">
+        Estudos sobre Tailwind.
+        <br><br>
+        <a href="https://github.com/organizacao-de-estudos/Estudos-Tailwind-CSS" target="_blank"><strong>Ver Repositório 💻</strong></a>
+      </p>
+    </td>
+</table>
 
 
 ---
