@@ -43,6 +43,16 @@
       </p>
     </td>
   </tr>
+    <tr>
+    <td width="50%">
+      <h3 align="center">Litera</h3>
+      <p align="center">
+        Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. O projeto foi criado como parte do trabalho de conclusão de curso de Desenvolvimento de Sistemas da Escola Técnica Estadual de Guaianases,           com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.<br><br>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/MarleyS439/litera" target="_blank"><strong>Ver Código 💻</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
