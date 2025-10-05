@@ -57,27 +57,6 @@
 
 ---
 ## 📚 Meus Estudos e Cursos
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Estudo: JavaScript Completo</h3>
-      <p align="center">
-        Repositório com exercícios e estudos sobre Javascript ES6+.
-        <br><br>
-        <a href="https://github.com/organizacao-de-estudos/Estudos-Javascript-Completo" target="_blank"><strong>Ver Repositório 💻</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Estudo: React Completo</h3>
-      <p align="center">
-        Estudos práticos sobre React.
-        <br><br>
-        <a href="https://github.com/organizacao-de-estudos/Estudos-React-Completo" target="_blank"><strong>Ver Repositório 💻</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
 <table align="center">
       <td width="50%">
       <h3 align="center">Estudo: Tailwind CSS</h3>
