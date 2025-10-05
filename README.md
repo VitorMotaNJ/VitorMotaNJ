@@ -1,6 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Vitor Mota</h1>
-<h3 align="center">Um estudante de desenvolvimento apaixonado por tecnologia.</h3>
-
 ---
 
 ### 💫 Minha Trajetória Acadêmica
