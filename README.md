@@ -1,6 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Vitor Mota</h1>
----
-
 ### 💫 Minha Trajetória Acadêmica
 * **Técnico em Desenvolvimento de Sistemas** - ETEC de Guaianases
 * **Análise e Desenvolvimento de Sistemas (Cursando)** - FATEC Mogi das Cruzes
