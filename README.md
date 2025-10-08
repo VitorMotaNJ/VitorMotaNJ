@@ -70,9 +70,6 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vitormotanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormotanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-  <br/>
-  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=vitormotanj&theme=dark&hide_border=false" alt="Streak Stats"/>
-  <img width="400" src="https://github-contributor-stats.vercel.app/api?username=vitormotanj&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=vitormotanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormotanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
