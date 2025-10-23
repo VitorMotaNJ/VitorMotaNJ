@@ -50,6 +50,18 @@
       </p>
     </td>
   </tr>
+   <tr>
+    <td width="50%">
+      <h3 align="center">Versonhos</h3>
+      <p align="center">
+        Versonhos é um projeto que visa humanizar o processo de internação hospitalar com o foco em crianças, te
+ndo como objetivo o conforto e 
+a esperança o projeto utiliza-se da tecnologia da realidade aumentada para proporcionar momentos de bem-estar<br><br>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/VerSonhos" target="_blank"><strong>Ver Código 💻</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
