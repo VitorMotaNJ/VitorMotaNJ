@@ -57,7 +57,7 @@
         Versonhos é um projeto que visa humanizar o processo de internação hospitalar com o foco em crianças. Tendo como objetivo o conforto e a esperança o projeto utiliza-se da tecnologia da realidade aumentada para proporcionar momentos de bem-estar<br><br>
         &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/VerSonhos/VerSonhos_front-end" target="_blank"><strong>Ver Código 💻</strong></a>
-<a href="https://versonhos.com.br" target="_blank"><strong>Ver Site 💻</strong></a>
+<a href="https://versonhos.com.br" target="_blank"><strong>Ver Site 🚀</strong></a>
       </p>
     </td>
   </tr>
